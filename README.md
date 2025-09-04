@@ -19,7 +19,7 @@
 
 ###  Herramientas y tecnologías
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,bootstrap,nodejs,npm,mysql,php,laravel,html,css,js,debian,linux,ai,bash,git,github,vscode&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,bootstrap,nodejs,npm,mysql,php,laravel,html,css,js,debian,linux,bash,ai,git,github,vscode&theme=dark" />
 </p>
 
 ---
